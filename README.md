@@ -1,4 +1,4 @@
-﻿# Most representative sea route challange
+﻿# Most representative sea route challenge
 
 
 All routes between Hamburg and Bremerhaven sea ports
@@ -6,7 +6,7 @@ All routes between Hamburg and Bremerhaven sea ports
 
 
 
-Most representative route between Hamburg and Bremerhaven
+Most representative route between Hamburg and Bremerhaven sea ports
 ![image](https://user-images.githubusercontent.com/26466805/168637595-79ebc603-ec65-4183-b9ce-f0965a0dc7d4.png)
 
 The most representative route is: 
